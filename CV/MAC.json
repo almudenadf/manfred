@@ -204,6 +204,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Ansible",
+          "type": "technology"
+        },
+        {
           "name": "Atlassian",
           "type": "technology"
         },
