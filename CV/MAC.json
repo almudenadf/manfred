@@ -232,6 +232,10 @@
           "type": "technology"
         },
         {
+          "name": "Kong",
+          "type": "technology"
+        },
+        {
           "name": "OpenShift",
           "type": "technology"
         },
