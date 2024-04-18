@@ -212,6 +212,10 @@
           "type": "technology"
         },
         {
+          "name": "Apache Tomcat",
+          "type": "technology"
+        },
+        {
           "name": "Atlassian",
           "type": "technology"
         },
