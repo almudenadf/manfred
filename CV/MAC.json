@@ -248,6 +248,10 @@
           "type": "technology"
         },
         {
+          "name": "LifeRay",
+          "type": "technology"
+        },
+        {
           "name": "OpenShift",
           "type": "technology"
         },
