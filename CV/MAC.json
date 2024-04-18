@@ -224,6 +224,10 @@
           "type": "technology"
         },
         {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
           "name": "Jira",
           "type": "technology"
         },
