@@ -1,0 +1,239 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Almudena",
+      "surnames": "Díaz",
+      "title": "Devops Tools Support Engineer @ Telefonica",
+      "description": "Soy una Ingeniera de Soporte de Herramientas Devops altamente cualificada con más de 10 años de experiencia en la implementación, soporte y resolución de problemas de herramientas Devops y Middleware. A lo largo de mi trayectoria, he ayudado a empresas de diversos sectores a optimizar sus procesos de desarrollo y operaciones, mejorando la eficiencia y la satisfacción del cliente.\n\nMis habilidades incluyen:\n\n-Sólido conocimiento de herramientas Devops: Automatización (Jenkins,Ansible) ; Contenedorización (Docker, Kubernetes); Monitorización (Grafana,Nagios) ; Desarrollo ( Bitbucket, GitLab) ...\n\n-Experiencia profunda en Middleware N2: instalación, configuración, administración y resolución de problemas.\n\n-Capacidad para diagnosticar y resolver problemas técnicos complejos de forma rápida y eficiente, tanto en Devops como en N2.\n\n-Excelentes habilidades de comunicación y colaboración para trabajar con equipos de desarrollo, operaciones y seguridad.\n\n- Experiencia en Administración de Sistemas Operativos RHEL y Microsoft.\n\n-Apasionado por la mejora continua y la adopción de las últimas tecnologías Devops y N2.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/15/e4bfbdeb-2f50-4320-a2e4-2bb22c589e0a_almudenadelacebodiaz.jpg",
+        "alt": "AlmudenadelAceboDíazFidalgo.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJD5K5cB6FNg0RYfhmEGUnIs0)",
+        "country": "España",
+        "region": "Principado de Asturias",
+        "municipality": "Nubledo"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/almudenadf"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Capgemini",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/18/7a55210d-ada0-4fa2-b70b-be6b3f023adc_linkedin-photo-60534.linkedin-photo-60534",
+            "alt": "24/04/18/7a55210d-ada0-4fa2-b70b-be6b3f023adc_linkedin-photo-60534.linkedin-photo-60534"
+          }
+        },
+        "roles": [
+          {
+            "name": "Devops Tools Support Engineer",
+            "startDate": "2023-06-01",
+            "challenges": [
+              {
+                "description": "Poseo un profundo conocimiento de una amplia gama de herramientas Devops, incluyendo Herramientas de OpenText, Atlassian, Openshift, Jenkins,..etc. Estoy apasionada por ayudar a los equipos a optimizar sus flujos de trabajo y mejorar su eficiencia a través de la implementación y el uso efectivo de las herramientas Devops."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "INNVEL2 CONSULTING SLL"
+        },
+        "roles": [
+          {
+            "name": "DevOps Engineer @ ArcelorMittal",
+            "startDate": "2022-01-01",
+            "finishDate": "2023-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Indra",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/18/bbc4ea7f-0307-4788-93bb-c7d4d8b3699b_linkedin-photo-60534.linkedin-photo-60534",
+            "alt": "24/04/18/bbc4ea7f-0307-4788-93bb-c7d4d8b3699b_linkedin-photo-60534.linkedin-photo-60534"
+          }
+        },
+        "roles": [
+          {
+            "name": "Middleware Administración N2 @ Inditex",
+            "startDate": "2020-01-01",
+            "finishDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "Poseo un profundo conocimiento de la arquitectura de N2 y de los diferentes componentes que la componen. Mi experiencia se basa en la instalación, configuración, administración y resolución de problemas de N2 y proyectos N3."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Equifax",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/18/cef9d4f9-33f8-4024-8ac8-dfffb66d0e4f_linkedin-photo-60534.linkedin-photo-60534",
+            "alt": "24/04/18/cef9d4f9-33f8-4024-8ac8-dfffb66d0e4f_linkedin-photo-60534.linkedin-photo-60534"
+          }
+        },
+        "roles": [
+          {
+            "name": "Team Leader Solutions Delivery",
+            "startDate": "2019-01-01",
+            "finishDate": "2021-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Randstad",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/18/c3452acc-e95c-4b53-9f30-ba41468cbd8c_linkedin-photo-60534.linkedin-photo-60534",
+            "alt": "24/04/18/c3452acc-e95c-4b53-9f30-ba41468cbd8c_linkedin-photo-60534.linkedin-photo-60534"
+          }
+        },
+        "roles": [
+          {
+            "name": "Técnico de sistemas informáticos @ Equifax",
+            "startDate": "2018-01-01",
+            "finishDate": "2019-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Grupo SIA",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/18/be3744eb-b0be-4e77-b733-a720b43addd3_linkedin-photo-60534.linkedin-photo-60534",
+            "alt": "24/04/18/be3744eb-b0be-4e77-b733-a720b43addd3_linkedin-photo-60534.linkedin-photo-60534"
+          }
+        },
+        "roles": [
+          {
+            "name": "Técnico Certificación de Aplicaciones @ Ministerio Red.Es",
+            "startDate": "2015-01-01",
+            "finishDate": "2018-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Grupo SIA",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/18/4122aeb1-fa8b-4c66-b84b-0e094b1d31c8_linkedin-photo-60534.linkedin-photo-60534",
+            "alt": "24/04/18/4122aeb1-fa8b-4c66-b84b-0e094b1d31c8_linkedin-photo-60534.linkedin-photo-60534"
+          }
+        },
+        "roles": [
+          {
+            "name": "Técnico de IT Management",
+            "startDate": "2013-01-01",
+            "finishDate": "2015-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Alba Technology",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/18/2a94e364-bb55-4d6e-9c5e-540fda109f20_linkedin-photo-60534.linkedin-photo-60534",
+            "alt": "24/04/18/2a94e364-bb55-4d6e-9c5e-540fda109f20_linkedin-photo-60534.linkedin-photo-60534"
+          }
+        },
+        "roles": [
+          {
+            "name": "Técnico de IT Management & Helpdesk",
+            "startDate": "2010-01-01",
+            "finishDate": "2011-01-01"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Desarrollo de Aplicaciones Multiplataforma, Programación informática",
+        "startDate": "2010-01-01",
+        "institution": {
+          "name": "Centro de Formación Profesional Juan XXIII"
+        },
+        "finishDate": "2012-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Explotación de Sistemas Informáticos, Administración de sistemas informáticos",
+        "startDate": "2008-01-01",
+        "institution": {
+          "name": "I.E.S La Arboleda"
+        },
+        "finishDate": "2010-01-01"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/almudenadf",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "almudenadiazfidalgo@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Atlassian",
+          "type": "technology"
+        },
+        {
+          "name": "BMC Remedy",
+          "type": "technology"
+        },
+        {
+          "name": "OpenShift",
+          "type": "technology"
+        },
+        {
+          "name": "RedHat",
+          "type": "technology"
+        },
+        {
+          "name": "Windows",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "DevOps & Infrastructure & SRE",
+        "Engineering Management",
+        "Support Engineer",
+        "SysAdmin"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "## Mi trabajo ideal sería aquel que me permita:\n- Utilizar mis amplios conocimientos técnicos en una **amplia gama de herramientas tecnológicas.**\n- Aprender y adaptarme rápidamente a nuevas tecnologías.\n- Resolver problemas de forma rápida y eficaz.\n- Comunicarme y colaborar de forma efectiva.\n- Trabajar de forma independiente y como parte de un equipo.\n\nMe interesa un trabajo transparente  y a ser posible 100% remoto."
+  }
+}
