@@ -212,7 +212,15 @@
           "type": "technology"
         },
         {
+          "name": "Bamboo",
+          "type": "technology"
+        },
+        {
           "name": "Bitbucket",
+          "type": "technology"
+        },
+        {
+          "name": "Confluence",
           "type": "technology"
         },
         {
