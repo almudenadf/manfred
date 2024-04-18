@@ -240,6 +240,10 @@
           "type": "technology"
         },
         {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
           "name": "Jenkins",
           "type": "technology"
         },
